@@ -78,10 +78,11 @@
 	opacity: 0;
 }
 /** Background */
+/*? FIXED (background) */
 .appMount-3lHmkl,
 [class~='app'],
-.app-2rEoOp,
-.bg-h5JY_x {
+.app-2CXKsg,
+.bg-1QIAus {
 	background: var(--background-image) !important;
 	background-size: cover !important;
 }
@@ -97,10 +98,12 @@
 	background-color: transparent !important;
 }
 /* Removes some weird things */
-.form-2fGMdU:before {
+/*? FIXED (weird shadow next to message input) */
+.form-3gdLxP:before {
 	background: transparent !important;
 }
-.panels-j1Uci_ {
+/*? FIXED (user buttons(?))*/
+.panels-3wFtMD {
 	background-color: transparent !important;
 }
 .scroller-2TZvBN {
@@ -113,15 +116,17 @@
 .app-1q1i1E {
 	background: transparent;
 }
-.typeWindows-1za-n7 {
+/*! FIXED (windows controls at top of page) */
+.typeWindows-2-g3UY {
 	height: 23px;
 	margin-top: 0px;
 	background: var(--main-transparency);
 }
-.scrollableContainer-2NUZem {
+/*! FIXED (typing area) */
+.scrollableContainer-15eg7h {
 	background-color: rgba(0, 0, 0, 0.6);
 }
-.channelTextArea-rNsIhG {
+.channelTextArea-1FufC0 {
 	background-color: transparent;
 }
 .embedFull-2tM8-- {
@@ -134,7 +139,8 @@
 .scroller-1JbKMe {
 	background-color: transparent;
 }
-.privateChannels-1nO12o {
+/*! FIXED */
+.privateChannels-oVe7HL {
 	background-color: rgba(0, 0, 0, 0);
 }
 .container-1r6BKw {
@@ -147,7 +153,8 @@
 .wrapper-3D2qGf {
 	background-color: rgba(0, 0, 0, 0.4);
 }
-.nowPlayingColumn-2sl4cE {
+/*! FIXED (weird column next to the friends list) */
+.nowPlayingColumn-1eCBCN {
 	background: transparent;
 }
 /*Settings transparency*/
@@ -374,7 +381,8 @@
 	fill: var(--highlight-color) !important;
 }
 
-.timestamp-3ZCmNB time {
+/*! FIXED (timestamp) */
+.timestamp-p1Df1m time {
 	color: rgba(var(--highlight-color-text), 0.9);
 	filter: brightness(75%);
 }
