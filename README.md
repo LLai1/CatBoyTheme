@@ -1,10 +1,2 @@
-Basically, I took some elements from
-
-- https://github.com/Logos-King/CatGirlTheme
-  who took some elements from
-  
-  - https://github.com/NYRI4/Discolored
-  
-  and they made a catgirl theme on top of it.
-
-and I made a catboy theme on top of it and uh yeah. Give me theme dev role please.
+Discord broke solonovamax#6983's theme (https://github.com/solonovamax/CatBoyTheme).
+I (tried) to fix it ;)

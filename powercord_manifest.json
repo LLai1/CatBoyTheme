@@ -1,9 +1,9 @@
   
 {
     "name": "Catboy Discord Theme",
-    "version": "0.0.2",
-    "author": "solonovamax#6983",
+    "version": "0.0.3",
+    "author": "LJL#4811",
     "license": "MIT",
     "theme": "index.css",
-    "description": "A poggies catboy theme. I just modified https://github.com/Logos-King/CatGirlTheme for a friend."
+    "description": "A working poggies catboy theme. I tried to fix solonovamax's theme https://github.com/solonovamax/CatBoyTheme."
 }
